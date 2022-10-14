@@ -1,6 +1,7 @@
 {
   "name": "rings-of-might-rooms",
   "version": "0.1.2",
+  "homepage": "https://senlion5.github.io/rings-of-might-rooms",
   "private": true,
   "author": "Senlion5",
   "dependencies": {
@@ -16,6 +17,8 @@
     "typescript": "^4.8.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
