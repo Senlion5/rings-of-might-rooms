@@ -5,17 +5,6 @@ export interface SocketDataContextProps {
   raceEndpoint?: string;
   races?: Array<RaceProps>;
   joinRace?: (endpoint: string) => void;
-  // rooms?: Array<RoomProps>;
-  // joinRoom?: (roomTitle: string) => void;
-  // chosenRoom?: string;
-  // roomUsers?: number;
-  // chatMessages?: Array<MessageProps>;
-  // handleSubmit?: () => void;
-  // chatUser?: string;
-  // newMessage?: string;
-  // setNewMessage?: (newMessage: string) => void;
-  // setRooms?: (roomsList: Array<RoomProps>) => void | undefined;
-  // setChosenRoom?: (roomTitle: string) => void;
 }
 
 export interface RaceProps {
