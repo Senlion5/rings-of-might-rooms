@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rings-of-might-rooms/static/css/main.6a59f862.css",
+    "main.js": "/rings-of-might-rooms/static/js/main.a7e1c5c7.js",
+    "index.html": "/rings-of-might-rooms/index.html",
+    "main.6a59f862.css.map": "/rings-of-might-rooms/static/css/main.6a59f862.css.map",
+    "main.a7e1c5c7.js.map": "/rings-of-might-rooms/static/js/main.a7e1c5c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a59f862.css",
+    "static/js/main.a7e1c5c7.js"
+  ]
+}
