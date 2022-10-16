@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rings-of-might-rooms/static/css/main.bc566b9a.css",
-    "main.js": "/rings-of-might-rooms/static/js/main.1dd650b6.js",
+    "main.js": "/rings-of-might-rooms/static/js/main.632789cd.js",
     "index.html": "/rings-of-might-rooms/index.html",
     "main.bc566b9a.css.map": "/rings-of-might-rooms/static/css/main.bc566b9a.css.map",
-    "main.1dd650b6.js.map": "/rings-of-might-rooms/static/js/main.1dd650b6.js.map"
+    "main.632789cd.js.map": "/rings-of-might-rooms/static/js/main.632789cd.js.map"
   },
   "entrypoints": [
     "static/css/main.bc566b9a.css",
-    "static/js/main.1dd650b6.js"
+    "static/js/main.632789cd.js"
   ]
 }
