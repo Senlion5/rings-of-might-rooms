@@ -78,8 +78,8 @@ header {
   align-items: center;
   background-color: #4d464e;
   padding: 10px 18px 4px 18px;
-  max-width: 140px;
-  min-width: 94px;
+  max-width: 128px;
+  min-width: 128px;
   border-right: 3px solid rgb(220, 227, 235);
 }
 
@@ -95,8 +95,8 @@ header {
 .roomsColumn {
   background-color: #ece9c3;
   padding: 12px 16px;
-  max-width: 220px;
-  min-width: 129px;
+  max-width: 186px;
+  min-width: 186px;
   border-right: 3px solid rgb(220, 227, 235);
 }
 
@@ -275,14 +275,16 @@ button:hover {
 @media screen and (max-width: 992px) {
   .racesColumn {
     padding: 10px 16px 4px 16px;
-    max-width: 110px;
+    max-width: 106px;
+    min-width: 106px;
   }
   .racesColumn img{
     width: 74px;
   }
   .roomsColumn {
     padding: 12px 14px;
-    max-width: 180px;
+    max-width: 170px;
+    min-width: 170px;
   }
   .roomsColumn img{
     width: 42px;
@@ -312,7 +314,8 @@ button:hover {
   }
   .racesColumn {
     padding: 10px 12px 4px 12px;
-    max-width: 82px;
+    max-width: 86px;
+    min-width: 86px;
   }
   .racesColumn img{
     border-radius: 8px;
@@ -320,7 +323,8 @@ button:hover {
   }
   .roomsColumn {
     padding: 12px 10px;
-    max-width: 135px;
+    max-width: 140px;
+    min-width: 140px;
   }
   .roomsColumn img{
     border-radius: 6px;
