@@ -1,7 +1,6 @@
 {
   "name": "rings-of-might-rooms",
   "version": "0.1.2",
-  "homepage": "https://senlion5.github.io/rings-of-might-rooms",
   "private": true,
   "author": "Senlion5",
   "dependencies": {
