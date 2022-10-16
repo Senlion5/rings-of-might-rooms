@@ -16,7 +16,10 @@ const ChatItem = forwardRef(
       <li>
         <div ref={ref} className="chatItemBox">
           <div className="authorLine">
-            <img src={message.avatar} alt="user's avatar" />
+            <img
+              src={process.env.PUBLIC_URL + message.avatar}
+              alt="user's avatar"
+            />
             <span className="authorText">{message.username}</span>
             <span className="timeText">{convertedTime}</span>
           </div>
